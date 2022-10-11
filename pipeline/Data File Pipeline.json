@@ -100,9 +100,6 @@
 		"variables": {
 			"filefullpath": {
 				"type": "String"
-			},
-			"fileName": {
-				"type": "String"
 			}
 		},
 		"annotations": [],
