@@ -1,0 +1,9 @@
+{
+	"name": "omofoye-data-factory",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f0e92f7-9021-4aab-816b-c258197a656b",
+		"tenantId": "4335bea1-046b-47ce-b643-429665f8fc9b"
+	}
+}
